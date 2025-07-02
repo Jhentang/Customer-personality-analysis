@@ -15,7 +15,7 @@ It aims to uncover insights from the *Customer Personality Analysis* dataset and
 
 ## Files
 
-- `Tang_JhenJhen_43031_AT3a.ipynb`: Full Jupyter Notebook with step-by-step analysis
+- `customer_analysis.ipynb`: Full Jupyter Notebook with step-by-step analysis
 
 ## Tools Used
 
